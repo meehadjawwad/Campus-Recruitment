@@ -1,11 +1,11 @@
 # Campus Recruitment
 
 ## Aim of the Project
-The aim of this project was threefold:
-- To identify relationships between student performance at different stages of education.
-- To evaluate how student performance differs according to genders and subjects.
-- To analyse salary according to gender, subjects, and performance.
-- To build classification models that can predict whether students will get placed or not.
+The aim of this project was to:
+- Identify relationships between student performance at different stages of education.
+- Evaluate how student performance differs according to genders and subjects.
+- Analyse salary according to gender, subjects, and performance.
+- Build classification models that can predict whether students will get placed or not.
 
 ## Hardware Used
 - MacBook Pro (Retina, 13-inch, Early 2015)
