@@ -1,4 +1,4 @@
-# Campus-Recruitment
+# Campus Recruitment
 
 ## Aim of the Project
 The aim of this project was threefold:
