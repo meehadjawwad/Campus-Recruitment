@@ -29,3 +29,22 @@
 - `salary`: Salary Offered
 
 ### Data Analysis
+The data analysis and visualisation for this project was conducted in Python and Tableau.
+
+##### Basic Exploration
+The data is a record of 215 students.
+
+- The male to female ratio is ~ 65:35.
+- ~ 69% of the students were placed.
+- The average salary offered to placed students is ~ 288,655.
+- There are 3 academic routes a student can take during Higher Secondary Education.
+- There are 3 academic routes a student can take during Undergraduate.
+- There are 2 academic routes a student can take during Postgraduate.
+- ~ 34% of the students have work experience.
+
+##### Gender
+Female students have consistently outperformed male students in academics. They only time male students, on average, scored higher than female students was in `etest_p` (Employability Test).
+
+| <img_src:'https://github.com/meehadjawwad/Campus-Recruitment/blob/master/images/ssc_gender_dist.png' width=1000> |
+| :--: |
+| _Figure 1 - Secondary Education Gender Performance_ |
