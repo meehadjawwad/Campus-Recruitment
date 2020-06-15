@@ -1,4 +1,4 @@
-#Data Analysis
+# Data Analysis
 
 ### Table of Contents
 - Explaining the Variables
@@ -67,6 +67,19 @@ Female students have consistently outperformed male students in academics. They 
 
 ##### Work Experience
 
-| <img src='https://github.com/meehadjawwad/Campus-Recruitment/blob/master/images/analysis_workex.png' height='1000'> |
+| <img src='https://github.com/meehadjawwad/Campus-Recruitment/blob/master/images/analysis_workex.png' height='360'> |
 | :--: |
-| _Figure 6 - Work Experience Analysis_
+| _Figure 6 - Work Experience Analysis_ |
+
+##### Placement
+
+| <img src='https://github.com/meehadjawwad/Campus-Recruitment/blob/master/images/analysis_placement.png' height='360'> |
+| :--: |
+| _Figure 6 - Placement Analysis_ |
+
+##### Salary
+
+| <img src='https://github.com/meehadjawwad/Campus-Recruitment/blob/master/images/analysis_salary.png' height='360'> |
+| :--: |
+| _Figure 6 - Salary Analysis_ |
+
