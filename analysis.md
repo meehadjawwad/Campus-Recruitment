@@ -45,6 +45,28 @@ The data is a record of 215 students.
 ##### Gender
 Female students have consistently outperformed male students in academics. They only time male students, on average, scored higher than female students was in `etest_p` (Employability Test).
 
-| <img_src:'https://github.com/meehadjawwad/Campus-Recruitment/blob/master/images/ssc_gender_dist.png' width=1000> |
+| <img src='https://github.com/meehadjawwad/Campus-Recruitment/blob/master/images/ssc_gender_dist.png' width='1000'> |
 | :--: |
 | _Figure 1 - Secondary Education Gender Performance_ |
+
+| <img src='https://github.com/meehadjawwad/Campus-Recruitment/blob/master/images/hsc_gender_dist.png' width='1000'> |
+| :--: |
+| _Figure 2 - Higher Secondary Education Gender Performance_ |
+
+| <img src='https://github.com/meehadjawwad/Campus-Recruitment/blob/master/images/degree_gender_dist.png' width='1000'> |
+| :--: |
+| _Figure 3 - Undergraduate Gender Performance_ |
+
+| <img src='https://github.com/meehadjawwad/Campus-Recruitment/blob/master/images/mba_gender_dist.png' width='1000'> |
+| :--: |
+| _Figure 4 - Postgraduate Gender Performance_ |
+
+| <img src='https://github.com/meehadjawwad/Campus-Recruitment/blob/master/images/etest_gender_dist.png' width='1000'> |
+| :--: |
+| _Figure 5 - Employability Test Gender Performance_ |
+
+##### Work Experience
+
+| <img src='https://github.com/meehadjawwad/Campus-Recruitment/blob/master/images/analysis_workex.png' height='1000'> |
+| :--: |
+| _Figure 6 - Work Experience Analysis_
