@@ -75,11 +75,11 @@ Female students have consistently outperformed male students in academics. They 
 
 | <img src='https://github.com/meehadjawwad/Campus-Recruitment/blob/master/images/analysis_placement.png' height='360'> |
 | :--: |
-| _Figure 6 - Placement Analysis_ |
+| _Figure 7 - Placement Analysis_ |
 
 ##### Salary
 
 | <img src='https://github.com/meehadjawwad/Campus-Recruitment/blob/master/images/analysis_salary.png' height='360'> |
 | :--: |
-| _Figure 6 - Salary Analysis_ |
+| _Figure 8 - Salary Analysis_ |
 
