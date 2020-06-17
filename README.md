@@ -23,6 +23,7 @@ OS: macOS Catalina (version 10.15.3)
 - jupyter_notebooks:
   - `preprocessing.ipynb`: notebook for initial data cleaning
   - `eda.ipynb`: notebook for exploration and analysis
+  - `modelling.ipynb`: notebook for modelling
 - `requirements.txt`: includes a list of python libraries used in the project.
 
   ## Methods Used
@@ -35,3 +36,4 @@ OS: macOS Catalina (version 10.15.3)
 - Pandas
 - Matplotlib
 - Seaborn
+- SciKit-Learn
